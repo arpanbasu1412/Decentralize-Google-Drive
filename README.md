@@ -1,6 +1,6 @@
 # Decentralize Google Drive
 
-[Click Here to visit my website](https://decentralized-gdrive-clone.netlify.app/){:target="_blank" rel="noopener"}
+[Click Here to visit my website](https://decentralized-gdrive-clone.netlify.app/){:target="_blank"}
 
 Try running some of the following tasks:
 
