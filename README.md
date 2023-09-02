@@ -1,13 +1,14 @@
-# Sample Hardhat Project
+# Decentralize Google Drive
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+[Click Here to visit my website](https://decentralized-gdrive-clone.netlify.app/)
 
 Try running some of the following tasks:
 
 ```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
+Install metamask extension
+Create account
+Go to goerli test network
+Visit https://goerli-faucet.pk910.de/ for mining test ethers
 ```
+
+Now You can Upload Images and share with your Friends
