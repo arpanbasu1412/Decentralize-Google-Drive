@@ -14,4 +14,7 @@ Visit https://goerli-faucet.pk910.de for mining test ethers
 
 Now You can Upload Images and share with your Friends
 
-[![Watch Demo video](Demo_screenshot.png)](Demo_video.mp4)
+[Watch Demo video]
+
+https://github.com/arpanbasu1412/Decentralize-Google-Drive/assets/85602461/17204cc5-a74c-44cd-ab69-05a1603aaa3a
+
